@@ -1,0 +1,4 @@
+Reverse String 字串的逆向工程 將底下字串esrevEergnirTsroFtsetelpmisAsisihT倒著寫 並把結果放入BreakallCTF{答案}
+
+
+answer:

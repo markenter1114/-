@@ -1,0 +1,7 @@
+STEG2_Secret in PDF
+30
+文件隱寫術之PDF可以藏詩文
+
+
+
+answer: BREAKALLCTF(IcANhIdeSomeTHinGinPdF)

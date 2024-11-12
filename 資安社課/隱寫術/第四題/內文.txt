@@ -1,0 +1,12 @@
+STEG5_Flag in Black & White
+50
+chal.png
+
+stegsolve
+
+
+
+
+
+
+answer: key{forensics_is_fun}

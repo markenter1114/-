@@ -1,0 +1,9 @@
+Internetwache CTF 2016: The hidden message
+50
+My friend really can’t remember passwords. So he uses some kind of obfuscation(代碼混淆).
+Can you restore the plaintext?
+
+Attachment: misc50.zip
+
+
+answer: IW{N0_0ne_can_st0p_y0u}

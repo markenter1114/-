@@ -1,0 +1,19 @@
+STEG3
+50
+圖片裡確實有你要的Flag
+
+把她找出來吧!
+
+本題出自國外CTF題目
+
+[解答格式]ABCTF{XXXXXXXXXXXXXXX}
+
+Linux有許多指令可以看看
+
+file
+
+strings
+
+
+
+answer: 幫我找一下，我用window系統，懶得找

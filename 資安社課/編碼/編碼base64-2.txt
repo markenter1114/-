@@ -1,0 +1,9 @@
+第一堂base64編碼
+20
+請問底下字串的base64編碼為何?
+BreakallCTF{happyhackinghighhaaha}
+
+
+
+
+answer:QnJlYWthbGxDVEZ7aGFwcHloYWNraW5naGlnaGhhYWhhfQ==

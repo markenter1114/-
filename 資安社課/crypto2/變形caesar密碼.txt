@@ -1,0 +1,12 @@
+CRY12_變形caesar密碼
+20
+有一題RC3 CTF的題目困擾小梅許久,你能幫她解出來嗎?
+
+“The fault, dear Brutus, is not in our stars, but in ourselves.”
+(I.ii.141) Julius Caesar in William Shakespeare’s Julius Caesar
+
+密文(CipherText): 7sj-ighm-742q3w4t
+
+
+
+answer: RC3-2016-ROMANGOD

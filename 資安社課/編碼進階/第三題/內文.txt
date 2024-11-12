@@ -1,0 +1,8 @@
+SECCON CTF 2014: Easy Cipher
+100
+多元編碼方案
+
+試著解解看吧!
+
+
+answer: SECCON{W31C0M 70 7H3 53CC0N ZOIA}

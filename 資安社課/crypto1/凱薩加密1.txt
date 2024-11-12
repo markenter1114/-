@@ -1,0 +1,8 @@
+底下是加密過的密文(ciphertext) :
+xyzqc{t3_qelrdeq_t3_k33a3a_lk3_lc_qe3p3}
+你可以解密她嗎?
+本題來自國外ABCTF的題目
+hint(凱薩加密)  bruteforce
+
+
+answer:   abctf{w3_thought_w3_n33d3d_on3_of_th3s3}

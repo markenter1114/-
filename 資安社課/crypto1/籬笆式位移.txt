@@ -1,0 +1,8 @@
+ 密文如下: Ta _7N6DE7hlg:W3D_H3C31N__BD4efsHR053F38N43D47i33___NC
+
+使用四層籬笆(rail fence with 4 rails)
+
+答案格式:BreakAllCTF{flag}
+
+
+answer: WH3R3_D035_7H3_F3NC3_8361N_4ND_3ND_EB4C7D74

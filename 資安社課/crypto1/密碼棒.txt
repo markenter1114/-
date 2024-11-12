@@ -1,0 +1,7 @@
+密碼棒破密
+密文:  Decrypt this strange word: ERTKSOOTCMCHYRAFYLIPL
+本題目來自國外EKOPARTY CTF的題目
+解答也就會有相關文字
+
+
+answer: EKOMYFIRSTCRYPTOCHALL

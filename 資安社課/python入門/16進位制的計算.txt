@@ -1,0 +1,4 @@
+10進位的3456093847523457890 對應到16進位的值是? 請將答案塞到BreakallCTF{答案}
+
+
+answer: BreakallCTF{2ff6830b0c0c7b62}
